@@ -1,6 +1,8 @@
 {
     "name": "katsh.parent-dir",
     "title": "Displays parent folder on Woking Files panel",
+	"description" : "Displays parent folder on Working Files panel",
+	"keywords" : "directories",
     "homepage": "",
     "version": "1.0.0",
     "author": "Bruce F <your@email> (http://kat.sh)",
