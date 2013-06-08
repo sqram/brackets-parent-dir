@@ -56,8 +56,9 @@ define(function (require, exports, module) {
 
 
 
-   /* Not currently needed...but maybe one day if we want to enable/disable via menu
     var PARSE_CMD_ID = "katsh.parentfolder";   // package-style naming to avoid collisions
+
+   /* Not currently needed...but maybe one day if we want to enable/disable via menu
     CommandManager.register("Parse json", PARSE_CMD_ID, init);
      Then create a menu item bound to the command
      The label of the menu item is the name we gave the command (see above)
